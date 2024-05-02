@@ -34,9 +34,11 @@ THEN I find a concise, descriptive title
 
 ## Application Screenshot
 
-![Application screenshot]()
+![Application screenshot](C:\Users\robma\bootcamp\challenge-1\assets\images\Challenge-1-screenshot.png)
 
 ## Link to Deployed Application
+
+https://github.com/Grawrb/challenge-1
 
 ## Developer contact information
 
